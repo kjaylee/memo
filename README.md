@@ -1,5 +1,5 @@
 # memo
-moemo
+memo
 
 서비스 워커란?
 
